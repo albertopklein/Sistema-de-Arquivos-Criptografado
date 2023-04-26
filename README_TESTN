@@ -1,0 +1,24 @@
+
+Este arquivo possui a descrição dos arquivos testes, ajudando a entender o que foi realizado.
+
+
+test1
+- Realiza a inserção de número de blocos negativo;
+
+test2
+- Realiza a inserção de um arquivo que ocupa pelo menos dois blocos de dados;
+
+test3
+- Insere um arquivo que extrapole o número de bloco de dados disponivéis;
+
+test4
+- Inserir diversos arquivos para ocupar todos os blocos;
+
+test5
+- Tenta escrever onde só pode lêr;
+
+test6
+- Tenta lêr onde só pode escrever;
+
+test7
+- Insere arquivos e verifica os paramentros, entre eles: nome,tempo,indices,tamanho;

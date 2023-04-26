@@ -66,18 +66,6 @@ O trabalho deverá conter um Makefile com pelo menos quatro testes, acessáveis 
 
 Os casos de teste deverão conter operações de criação, escrita, leitura e remoção que mostrem o funcionamento correto do sistema. Sugere-se fortemente o uso da biblioteca `assert.h` e um estilo de saída similar ao caso de teste `main.c` fornecido com o primeiro trabalho.
 
-## Avaliação
-
-Serão pontuados:
-
-- Implementação da `crypfs`: **6 pontos**
-- Casos de teste: **4 pontos**
-
-## Cronograma
-
-- Entrega no github: **20/06/2016**
-- Apresentações (em ordem definida pelo professor): **21/06/2016 e 22/06/2016**
-
 ## Referências
 
 * [Cifra de César -- Wikipedia] (https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar)
